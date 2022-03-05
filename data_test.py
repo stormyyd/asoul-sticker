@@ -19,3 +19,4 @@ class TestData(unittest.TestCase):
         self.assertIsNotNone(config)
         self.assertIsNotNone(config['host'])
         self.assertIsNotNone(config['height'])
+        self.assertIsNotNone(config['flatten'])

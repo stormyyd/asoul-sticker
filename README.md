@@ -13,7 +13,7 @@
 </p>
 ```
 
-[在线演示](https://codepen.io/stormyyd/pen/jOaJMbx)
+[Codepen 在线演示](https://codepen.io/stormyyd/pen/jOaJMbx) | [全表情包在线展示](https://stormyyd.com/a-soul-sticker/)
 
 欢迎关注：
 

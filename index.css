@@ -1,0 +1,96 @@
+body {
+  font-size: 18px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,apple color emoji,segoe ui emoji,Segoe UI Symbol,noto color emoji;
+}
+
+.main {
+  padding: 0 1rem;
+}
+
+.center {
+  text-align: center;
+}
+
+.code {
+  font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(175,184,193,0.2);
+  border-radius: 6px;
+}
+
+.github-fork-ribbon:before {
+  background-color: #FC966E;
+}
+
+.btn-copy {
+  background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: #0969da;
+}
+
+a:active, a:hover {
+  outline-width: 0;
+}
+
+a.ava {
+  text-decoration: none;
+  color: #9AC8E2;
+}
+
+a.bella {
+  text-decoration: none;
+  color: #DB7D74;
+}
+
+a.carol {
+  text-decoration: none;
+  color: #B8A6D9;
+}
+
+a.diana {
+  text-decoration: none;
+  color: #E799B0;
+}
+
+a.eileen {
+  text-decoration: none;
+  color: #576690;
+}
+
+.sticker-item {
+  font-size: 48px;
+  display: inline-block;
+  line-height: 0;
+  text-align: center;
+}
+
+.class-name {
+  display: block;
+  font-size: 1.25rem;
+  line-height: 50%;
+}
+
+.alter-name {
+  display: block;
+  font-size: 1.25rem;
+  line-height: 50%;
+}
+
+.demo {
+  padding: .2em .4em;
+  margin: 0;
+  background-color: rgba(175,184,193,0.2);
+  border-radius: 6px;
+  width: auto;
+}

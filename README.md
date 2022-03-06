@@ -13,7 +13,7 @@
 </p>
 ```
 
-[Codepen 在线演示](https://codepen.io/stormyyd/pen/jOaJMbx) | [全表情包在线展示](https://stormyyd.com/a-soul-sticker/)
+[Codepen 在线演示](https://codepen.io/stormyyd/pen/jOaJMbx) | [全表情包在线展示与查询](https://stormyyd.github.io/asoul-sticker/) | [自行部署效果演示](https://stormyyd.com/a-soul-sticker/)
 
 欢迎关注：
 
@@ -30,13 +30,13 @@
 
 ```html
 <!--引入CSS-->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.1/dist/asoul-sticker.css">
+<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.1/dist/asoul-sticker.css">
 
 <!--使用span标签，将类名设置为表情包名称即可-->
 <span class="diana_asoul"></span>
 ```
 
-目前查表情包名字只能自己去`asset`文件夹里翻，之后会做一个网站来查询的，别急。
+你可以通过前往[这里](https://stormyyd.github.io/asoul-sticker/)查询表情包的class取值或直接复制表情包的代码来进行使用。
 
 ## 自定义配置
 
@@ -74,5 +74,5 @@
 
 ## TODO
 
-- [ ] 一个查询表情包class取值的网站
+- [x] 一个查询表情包class取值的网站
 - [ ] 加入微信表情包

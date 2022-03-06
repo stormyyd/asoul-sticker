@@ -26,12 +26,12 @@ body {
 
 .btn-copy {
   background: none;
-	color: inherit;
-	border: none;
-	padding: 0;
-	font: inherit;
-	cursor: pointer;
-	outline: inherit;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
 
 a {
@@ -71,20 +71,18 @@ a.eileen {
 .sticker-item {
   font-size: 48px;
   display: inline-block;
-  line-height: 0;
+  line-height: 40%;
   text-align: center;
 }
 
 .class-name {
   display: block;
   font-size: 1.25rem;
-  line-height: 50%;
 }
 
 .alter-name {
   display: block;
   font-size: 1.25rem;
-  line-height: 50%;
 }
 
 .demo {

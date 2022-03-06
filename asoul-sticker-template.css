@@ -1,5 +1,6 @@
 span.$className {
   content: url('//$host/$filename');
-  display: inline-block;
-  height: $height;
+}
+span.$className::after {
+  content: '$alt';
 }

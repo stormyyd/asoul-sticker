@@ -5,11 +5,11 @@
 ```html
 <p style="font-size: 32px;">
   我们是：
-  <span class="ava_asoul"></span>
-  <span class="bella_asoul"></span>
-  <span class="carol_asoul"></span>
   <span class="diana_asoul"></span>
+  <span class="ava_asoul"></span>
   <span class="eileen_asoul"></span>
+  <span class="carol_asoul"></span>
+  <span class="bella_asoul"></span>
 </p>
 ```
 

@@ -4,7 +4,7 @@ import string
 def main():
     with open('config.json', encoding='utf8') as f:
         config = json.load(f)
-    flatten = config["flatten"]
+    config['host'] = config['host'].rstrip('/')
 
     with open('asoul-sticker-base.css', encoding='utf8') as f:
         css_base = string.Template(f.read())
@@ -17,7 +17,7 @@ def main():
             if len(line) == 0 or line[0] == '#':
                 continue
             dir_name, file_name, class_name, alt_name = line.split(' ')
-            if flatten:
+            if config['flatten']:
                 host = config['host']
             else:
                 host = f'{config["host"]}/{dir_name}'

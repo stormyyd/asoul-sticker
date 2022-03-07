@@ -48,7 +48,7 @@
 {
     // 如果你有自己的服务器，可以将仓库的asset文件夹上传到你自己的服务器，
     // 同时修改该参数，即可使用你自己的服务器来加载表情包了。
-    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker/asset", 
+    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.1/asset", 
     // 高度参数，默认为3em，即三倍父元素的font-size大小，如果有需要可以自行修改。
     "height": "3em",
     // 如果你希望将asset文件夹中的所有表情包打平为一层，即不需要使用子文件夹来区分不同人的表情包，

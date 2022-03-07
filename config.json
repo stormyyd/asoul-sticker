@@ -1,5 +1,5 @@
 {
-    "host": "cdn.jsdelivr.net/gh/stormyyd/asoul-sticker/asset",
+    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker/asset",
     "height": "3em",
     "flatten": false
 }

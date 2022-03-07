@@ -1,5 +1,5 @@
 span.$className {
-  content: url('//$host/$filename');
+  content: url('$host/$filename');
 }
 span.$className::after {
   content: '$alt';

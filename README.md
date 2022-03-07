@@ -1,6 +1,15 @@
 # A-SOUL Sticker
 
-这是一个存储了A-SOUL B站装扮表情包的仓库，同时包含了一个css文件，你可以将其引入您的网站，这样就可以像这样使用这些可爱的表情包了：
+这是一个存储了A-SOUL官方表情包的仓库。
+
+目前包含了以下表情：
+
+- 五位成员的一期B站装扮表情
+- 五位成员的官方抖音/微信表情
+- 阿草的两套官方抖音/微信表情 ~~我一直是草学长啊~~
+- 嘉然的B站舰长表情
+
+该仓库同时包含了一个css文件，你可以将其引入您的网站，这样就可以像这样使用这些可爱的表情包了：
 
 ```html
 <p style="font-size: 32px;">
@@ -24,13 +33,24 @@
 - [@乃琳Queen](https://space.bilibili.com/672342685)
 - ~~[@A-SOUL_Official](https://space.bilibili.com/703007996)~~ 这个可以不关注
 
+
+## 声明
+
+该项目为粉丝自制项目，一切与项目相关的行为均为粉丝行为，与 A-SOUL制作委员会 无任何关系。
+
+请通过以下渠道关注官方消息：
+
+- [Bilibili @A-SOUL_Official](https://space.bilibili.com/703007996)
+- [新浪微博 @A-SOUL_Official](https://weibo.com/u/7519401668)
+- [抖音 @五个魂儿呀](https://www.douyin.com/user/MS4wLjABAAAAflgvVQ5O1K4RfgUu3k0A2erAZSK7RsdiqPAvxcObn93x2vk4SKk1eUb6l_D4MX-n)（抖音号：ASOULofficial）
+
 ## Usage
 
-当前版本：0.1.0
+当前版本：0.2.0
 
 ```html
 <!--引入CSS-->
-<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.1/dist/asoul-sticker.css">
+<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2/dist/asoul-sticker.css">
 
 <!--使用span标签，将类名设置为表情包名称即可-->
 <span class="diana_asoul"></span>
@@ -48,7 +68,7 @@
 {
     // 如果你有自己的服务器，可以将仓库的asset文件夹上传到你自己的服务器，
     // 同时修改该参数，即可使用你自己的服务器来加载表情包了。
-    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.1/asset", 
+    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2/asset", 
     // 高度参数，默认为3em，即三倍父元素的font-size大小，如果有需要可以自行修改。
     "height": "3em",
     // 如果你希望将asset文件夹中的所有表情包打平为一层，即不需要使用子文件夹来区分不同人的表情包，
@@ -73,5 +93,4 @@
 
 ## TODO
 
-- [x] 一个查询表情包class取值的网站
-- [ ] 加入微信表情包
+- [ ] 一个基于`JavaScript`的、可以在线生成客制化CSS的网站

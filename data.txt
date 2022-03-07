@@ -134,3 +134,149 @@ eileen eileen_yudaokunnan.png eileen_yudaokunnan 乃琳_遇到困难
 eileen eileen_yincanggamer.png eileen_yincanggamer 乃琳_隐藏gamer
 eileen eileen_male.png eileen_male 乃琳_麻了
 eileen eileen_guzhang.png eileen_guzhang 乃琳_鼓掌
+
+# 阿草 抖音/微信表情包
+acao acao_shangbanqu.png acao_shangbanqu 阿草_上班去
+acao acao_jiaban.png acao_jiaban 阿草_加班
+acao acao_keai.png acao_keai 阿草_可爱
+acao acao_aiya.png acao_aiya 阿草_哎呀
+acao acao_kunrao.png acao_kunrao 阿草_困扰
+acao acao_gongzuozhong.png acao_gongzuozhong 阿草_工作中
+acao acao_kaixin.png acao_kaixin 阿草_开心
+acao acao_jingxia.png acao_jingxia 阿草_惊吓
+acao acao_fangsong.png acao_fangsong 阿草_放松
+acao acao_lailo.png acao_lailo 阿草_来咯
+acao acao_liuhan.png acao_liuhan 阿草_流汗
+acao acao_aixin.png acao_aixin 阿草_爱心
+acao acao_yiwen.png acao_yiwen 阿草_疑问
+acao acao_shuijiao.png acao_shuijiao 阿草_睡觉
+acao acao_leile.png acao_leile 阿草_累了
+acao acao_guile.png acao_guile 阿草_跪了
+
+# 阿草校园版 抖音/微信表情包
+acao2 acao2_0fen.gif acao2_0fen 阿草_0分
+acao2 acao2_100fen.gif acao2_100fen 阿草_100分
+acao2 acao2_good.gif acao2_good 阿草_good
+acao2 acao2_shangxuequ.gif acao2_shangxuequ 阿草_上学去
+acao2 acao2_buxing.gif acao2_buxing 阿草_不行
+acao2 acao2_chuisuona.gif acao2_chuisuona 阿草_吹唢呐
+acao2 acao2_wuwuwu.gif acao2_wuwuwu 阿草_呜呜呜
+acao2 acao2_aiya.gif acao2_aiya 阿草_哎呀
+acao2 acao2_aaa.gif acao2_aaa 阿草_啊啊啊
+acao2 acao2_fendou.gif acao2_fendou 阿草_奋斗
+acao2 acao2_haopengyou.gif acao2_haopengyou 阿草_好朋友
+acao2 acao2_jiushinile.gif acao2_jiushinile 阿草_就是你了
+acao2 acao2_qianaicha.gif acao2_qianaicha 阿草_恰奶茶
+acao2 acao2_fangkong.gif acao2_fangkong 阿草_放空
+acao2 acao2_ranqilaile.gif acao2_ranqilaile 阿草_燃起来了
+acao2 acao2_feifeitan.gif acao2_feifeitan 阿草_肥肥瘫
+
+# 可爱小向晚 抖音/微信表情包
+ava2 ava2_dj.gif ava2_dj 向晚_DJ
+ava2 ava2_emo.gif ava2_emo 向晚_emo
+ava2 ava2_wink.gif ava2_wink 向晚_wink
+ava2 ava2_ha.gif ava2_ha 向晚_哈
+ava2 ava2_aaaa.gif ava2_aaaa 向晚_啊啊啊啊
+ava2 ava2_miaomiao.gif ava2_miaomiao 向晚_喵喵
+ava2 ava2_haixiu.gif ava2_haixiu 向晚_害羞
+ava2 ava2_kuaipao.gif ava2_kuaipao 向晚_快跑
+ava2 ava2_song.gif ava2_song 向晚_怂
+ava2 ava2_tuiliula.gif ava2_tuiliula 向晚_推流辣
+ava2 ava2_yaobai.gif ava2_yaobai 向晚_摇摆
+ava2 ava2_anzhongguancha.gif ava2_anzhongguancha 向晚_暗中观察
+ava2 ava2_lvelvelve.gif ava2_lvelvelve 向晚_略略略
+ava2 ava2_xiangxinwo.gif ava2_xiangxinwo 向晚_相信我
+ava2 ava2_ruanhuhu.gif ava2_ruanhuhu 向晚_软乎乎
+ava2 ava2_bitipao.gif ava2_bitipao 向晚_鼻涕泡
+
+# 可爱小贝拉 抖音/微信表情包
+bella2 bella2_tutuzuo.gif bella2_tutuzuo 贝拉_兔兔坐
+bella2 bella2_tututiao.gif bella2_tututiao 贝拉_兔兔跳
+bella2 bella2_chiniurougan.gif bella2_chiniurougan 贝拉_吃牛肉干
+bella2 bella2_haiya.gif bella2_haiya 贝拉_嗨呀
+bella2 bella2_weixie.gif bella2_weixie 贝拉_威胁
+bella2 bella2_jiuzhe.gif bella2_jiuzhe 贝拉_就这
+bella2 bella2_tuolaji.gif bella2_tuolaji 贝拉_拖拉机
+bella2 bella2_tanshou.gif bella2_tanshou 贝拉_摊手
+bella2 bella2_biaoji.gif bella2_biaoji 贝拉_标记
+bella2 bella2_yihuo.gif bella2_yihuo 贝拉_疑惑
+bella2 bella2_ye.gif bella2_ye 贝拉_耶
+bella2 bella2_yingxiongluodi.gif bella2_yingxiongluodi 贝拉_英雄落地
+bella2 bella2_shuizaitouchi.gif bella2_shuizaitouchi 贝拉_谁在偷吃
+bella2 bella2_beichaoren.gif bella2_beichaoren 贝拉_贝超人
+bella2 bella2_zan.gif bella2_zan 贝拉_赞
+bella2 bella2_haibuqichuang.gif bella2_haibuqichuang 贝拉_还不起床
+
+# 可爱小珈乐 抖音/微信表情包
+carol2 carol2_no.gif carol2_no 珈乐_NO
+carol2 carol2_changge.gif carol2_changge 珈乐_唱歌
+carol2 carol2_a.gif carol2_a 珈乐_啊
+carol2 carol2_aowu.gif carol2_aowu 珈乐_嗷呜
+carol2 carol2_wodimaya.gif carol2_wodimaya 珈乐_我滴妈呀
+carol2 carol2_niuyangge.gif carol2_niuyangge 珈乐_扭秧歌
+carol2 carol2_naotou.gif carol2_naotou 珈乐_挠头
+carol2 carol2_wuzui.gif carol2_wuzui 珈乐_捂嘴
+carol2 carol2_liule.gif carol2_liule 珈乐_溜了
+carol2 carol2_langyatudou.gif carol2_langyatudou 珈乐_狼牙土豆
+carol2 carol2_langwangyao.gif carol2_langwangyao 珈乐_狼王摇
+carol2 carol2_pofangle.gif carol2_pofangle 珈乐_破防了
+carol2 carol2_huashou.gif carol2_huashou 珈乐_花手
+carol2 carol2_shuihanwo.gif carol2_shuihanwo 珈乐_谁喊我
+carol2 carol2_zhe.gif carol2_zhe 珈乐_这
+carol2 carol2_fengzhonglingluan.gif carol2_fengzhonglingluan 珈乐_风中凌乱
+
+# 可爱小嘉然 抖音/微信表情包
+diana2 diana2_buduijin.gif diana2_buduijin 嘉然_不对劲
+diana2 diana2_toumiao.gif diana2_toumiao 嘉然_偷瞄
+diana2 diana2_tanqi.gif diana2_tanqi 嘉然_叹气
+diana2 diana2_chidongxi.gif diana2_chidongxi 嘉然_吃东西
+diana2 diana2_chijing.gif diana2_chijing 嘉然_吃惊
+diana2 diana2_aaa.gif diana2_aaa 嘉然_啊啊啊
+diana2 diana2_enen.gif diana2_enen 嘉然_嗯嗯
+diana2 diana2_jiabu.gif diana2_jiabu 嘉然_嘉步
+diana2 diana2_gazhule.gif diana2_gazhule 嘉然_尬住了
+diana2 diana2_quantouyingle.gif diana2_quantouyingle 嘉然_拳头硬了
+diana2 diana2_wanan.gif diana2_wanan 嘉然_晚安
+diana2 diana2_linghunranshao.gif diana2_linghunranshao 嘉然_灵魂然烧
+diana2 diana2_shengqi.gif diana2_shengqi 嘉然_生气
+diana2 diana2_chuaifei.gif diana2_chuaifei 嘉然_踹飞
+diana2 diana2_dame.gif diana2_dame 嘉然_达咩
+diana2 diana2_shanliangdengchang.gif diana2_shanliangdengchang 嘉然_闪亮登场
+
+# 可爱小乃琳 抖音/微信表情包
+eileen2 eileen2_nizaixiangxiang.gif eileen2_nizaixiangxiang 乃琳_你再想想
+eileen2 eileen2_xiangrikui.gif eileen2_xiangrikui 乃琳_向日葵
+eileen2 eileen2_gazhule.gif eileen2_gazhule 乃琳_尬住了
+eileen2 eileen2_kuaipao.gif eileen2_kuaipao 乃琳_快跑
+eileen2 eileen2_jingya.gif eileen2_jingya 乃琳_惊讶
+eileen2 eileen2_bailan.gif eileen2_bailan 乃琳_摆烂
+eileen2 eileen2_yaobai.gif eileen2_yaobai 乃琳_摇摆
+eileen2 eileen2_bang.gif eileen2_bang 乃琳_棒
+eileen2 eileen2_aixin.gif eileen2_aixin 乃琳_爱心
+eileen2 eileen2_shuibuzhe.gif eileen2_shuibuzhe 乃琳_睡不着
+eileen2 eileen2_ye.gif eileen2_ye 乃琳_耶
+eileen2 eileen2_danxiao.gif eileen2_danxiao 乃琳_胆小
+eileen2 eileen2_fengqing.gif eileen2_fengqing 乃琳_风情
+eileen2 eileen2_gaoleng.gif eileen2_gaoleng 乃琳_高冷
+eileen2 eileen2_male.gif eileen2_male 乃琳_麻了
+eileen2 eileen2_guzhang.gif eileen2_guzhang 乃琳_鼓掌
+
+# 大航海嘉然 嘉然B站舰长表情包
+diana3 diana3_no.png diana3_no 大航海嘉然_NO
+diana3 diana3_yyds.png diana3_yyds 大航海嘉然_YYDS
+diana3 diana3_yuanlairuci.png diana3_yuanlairuci 大航海嘉然_原来如此
+diana3 diana3_keainie.png diana3_keainie 大航海嘉然_可爱捏
+diana3 diana3_xihuan.png diana3_xihuan 大航海嘉然_喜欢
+diana3 diana3_shiyi.png diana3_shiyi 大航海嘉然_失意
+diana3 diana3_haoye.png diana3_haoye 大航海嘉然_好耶
+diana3 diana3_weiqu.png diana3_weiqu 大航海嘉然_委屈
+diana3 diana3_ganfan.png diana3_ganfan 大航海嘉然_干饭
+diana3 diana3_xiangni.png diana3_xiangni 大航海嘉然_想你
+diana3 diana3_wanan.png diana3_wanan 大航海嘉然_晚安
+diana3 diana3_ningmeng.png diana3_ningmeng 大航海嘉然_柠檬
+diana3 diana3_shengqi.png diana3_shengqi 大航海嘉然_生气
+diana3 diana3_caomei.png diana3_caomei 大航海嘉然_草莓
+diana3 diana3_wenhao.png diana3_wenhao 大航海嘉然_问号
+diana3 diana3_zhenhan.png diana3_zhenhan 大航海嘉然_震撼
+diana3 diana3_ele.png diana3_ele 大航海嘉然_饿了
+diana3 diana3_huangdouliuhan.png diana3_huangdouliuhan 大航海嘉然_黄豆流汗

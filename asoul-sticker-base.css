@@ -2,7 +2,8 @@ span[class^="ava_"], span[class^="ava2_"],
 span[class^="bella_"], span[class^="bella2_"],
 span[class^="carol_"], span[class^="carol2_"],
 span[class^="diana_"], span[class^="diana2_"], span[class^="diana3_"],
-span[class^="eileen_"], span[class^="eileen2_"]
+span[class^="eileen_"], span[class^="eileen2_"],
+span[class^="acao_"], span[class^="acao2_"]
 {
   display: inline-block;
   height: $height;

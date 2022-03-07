@@ -68,6 +68,11 @@ a.eileen {
   color: #576690;
 }
 
+a.acao {
+  text-decoration: none;
+  color: #FC966E;
+}
+
 .sticker-item {
   font-size: 48px;
   display: inline-block;

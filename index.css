@@ -71,18 +71,19 @@ a.eileen {
 .sticker-item {
   font-size: 48px;
   display: inline-block;
-  line-height: 40%;
   text-align: center;
 }
 
 .class-name {
   display: block;
   font-size: 1.25rem;
+  margin: 0.4em 0;
 }
 
 .alter-name {
   display: block;
   font-size: 1.25rem;
+  margin: 0.4em 0;
 }
 
 .demo {

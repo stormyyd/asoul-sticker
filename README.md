@@ -46,11 +46,11 @@
 
 ## Usage
 
-当前版本：0.2.1
+当前版本：0.2.2
 
 ```html
 <!--引入CSS-->
-<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2/dist/asoul-sticker.css">
+<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2.2/dist/asoul-sticker.css">
 
 <!--使用span标签，将类名设置为表情包名称即可-->
 <span class="diana_asoul"></span>

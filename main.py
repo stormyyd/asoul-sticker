@@ -1,7 +1,7 @@
 import json
 import string
 
-_VERSION = '0.3.0'
+_VERSION = '0.3.1'
 
 def main():
     with open('config.json', encoding='utf8') as f:
@@ -27,7 +27,7 @@ def main():
             css_items.append(css_item)
 
     with open('dist/asoul-sticker.css', 'w', encoding='utf8', newline='\n') as f:
-        f.write(css_base.substitute(version=_VERSION, height=config['height']))
+        f.write(css_base.substitute(version=_VERSION, host=config["host"], height=config['height'], flatten=str(config['flatten']).lower()))
         f.write('\n')
         f.write(''.join(css_items))
 

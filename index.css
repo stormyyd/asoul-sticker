@@ -34,6 +34,15 @@ body {
   outline: inherit;
 }
 
+.toc {
+  border: 1px #dddddd solid;
+  background-color: rgba(175,184,193,0.2);
+}
+
+.toc ul, .toc li {
+  margin: 0.5em 0;
+}
+
 a {
   text-decoration: none;
   color: #0969da;
@@ -71,6 +80,16 @@ a.eileen {
 a.acao {
   text-decoration: none;
   color: #FC966E;
+}
+
+a.flower {
+  text-decoration: none;
+  color: #383348;
+}
+
+a.loreal {
+  text-decoration: none;
+  color: #000;
 }
 
 .sticker-item {

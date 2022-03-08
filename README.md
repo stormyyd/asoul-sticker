@@ -8,6 +8,8 @@
 - 五位成员的官方抖音/微信表情
 - 阿草的两套官方抖音/微信表情 ~~我一直是草学长啊~~
 - 嘉然的B站舰长表情
+- [《花亦山心之月》](https://flower.nvsgames.cn)联动表情
+- [欧莱雅男士](https://space.bilibili.com/500615835) [联动表情](https://t.bilibili.com/633241414042386452)
 
 该仓库同时包含了一个css文件，你可以将其引入您的网站，这样就可以像这样使用这些可爱的表情包了：
 
@@ -46,11 +48,11 @@
 
 ## Usage
 
-当前版本：0.2.3
+当前版本：0.3.0
 
 ```html
 <!--引入CSS-->
-<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2.3/dist/asoul-sticker.css">
+<link rel="stylesheet" href="https//cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.3/dist/asoul-sticker.css">
 
 <!--使用span标签，将类名设置为表情包名称即可-->
 <span class="diana_asoul"></span>
@@ -68,7 +70,7 @@
 {
     // 如果你有自己的服务器，可以将仓库的asset文件夹上传到你自己的服务器，
     // 同时修改该参数，即可使用你自己的服务器来加载表情包了。
-    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.2.3/asset", 
+    "host": "https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.3/asset", 
     // 高度参数，默认为3em，即三倍父元素的font-size大小，如果有需要可以自行修改。
     "height": "3em",
     // 如果你希望将asset文件夹中的所有表情包打平为一层，即不需要使用子文件夹来区分不同人的表情包，

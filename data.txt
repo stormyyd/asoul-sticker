@@ -280,3 +280,18 @@ diana3 diana3_wenhao.png diana3_wenhao 大航海嘉然_问号
 diana3 diana3_zhenhan.png diana3_zhenhan 大航海嘉然_震撼
 diana3 diana3_ele.png diana3_ele 大航海嘉然_饿了
 diana3 diana3_huangdouliuhan.png diana3_huangdouliuhan 大航海嘉然_黄豆流汗
+
+# 花亦山心之月 联动表情
+flower flower_ava.gif flower_ava 花亦山心之月_向晚
+flower flower_bella.gif flower_bella 花亦山心之月_贝拉
+flower flower_carol.gif flower_carol 花亦山心之月_珈乐
+flower flower_diana.gif flower_diana 花亦山心之月_嘉然
+flower flower_eileen.gif flower_eileen 花亦山心之月_乃琳
+
+# 欧莱雅男士 联动表情
+loreal loreal_acao.png loreal_acao 欧莱雅男士_阿草
+loreal loreal_ava.png loreal_ava 欧莱雅男士_向晚
+loreal loreal_bella.png loreal_bella 欧莱雅男士_贝拉
+loreal loreal_carol.png loreal_carol 欧莱雅男士_珈乐
+loreal loreal_diana.png loreal_diana 欧莱雅男士_嘉然
+loreal loreal_eileen.png loreal_eileen 欧莱雅男士_乃琳

@@ -1,7 +1,7 @@
 import json
 import string
 
-_VERSION = '0.3.2'
+_VERSION = '0.3.3'
 
 def main():
     with open('config.json', encoding='utf8') as f:

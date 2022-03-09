@@ -60,6 +60,10 @@
 
 你可以通过前往[这里](https://stormyyd.github.io/asoul-sticker/)查询表情包的class取值或直接复制表情包的代码来进行使用。
 
+## LICENSE
+
+asoul-sticker project is licensed under [UNLICENSE](https://github.com/stormyyd/asoul-sticker/blob/main/UNLICENSE), except for "asset" directory, which should belongs to its original creator.
+
 ## 自定义配置
 
 ### CSS

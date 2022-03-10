@@ -48,7 +48,7 @@
 
 ## Usage
 
-当前版本：0.3.3
+当前版本：0.3.4
 
 ```html
 <!--引入CSS-->
@@ -83,6 +83,8 @@ asoul-sticker project is licensed under [UNLICENSE](https://github.com/stormyyd/
 }
 ```
 
+你还可以前往[A-SOUL Sticker CSS Generator](https://stormyyd.github.io/asoul-sticker/generator.html)在线生成自己定制化的css。
+
 ### data.txt
 
 该文件存储了表情包的元数据，格式定义为：
@@ -96,7 +98,3 @@ asoul-sticker project is licensed under [UNLICENSE](https://github.com/stormyyd/
 - 第三列表示该表情包在css中的类名
 - 第四列表示该表情包的名称，基本来自B站，部分名字因为太过于鬼屎，个人做了一些小修改，跟B站的不完全相同。如果浏览器不支持[Element replacement](https://developer.mozilla.org/en-US/docs/Web/CSS/content#element_replacement)，该列的文字会出现在使用表情包的地方，类似：`[嘉然_我们是A-SOUL]`
 - 每列数据均不能包含空格，也不支持转义，建议使用下划线（"_"，ASCII 95）替代
-
-## TODO
-
-- [ ] 一个基于`JavaScript`的、可以在线生成客制化CSS的网站

@@ -1,7 +1,8 @@
 import json
 import string
 
-_VERSION = '0.3.3'
+_VERSION = '0.3.4'
+_GENERATOR = "asoul-sticker project"
 
 def main():
     with open('config.json', encoding='utf8') as f:
@@ -37,6 +38,7 @@ def main():
         selectors = [f'span[class^="{prefix}_"]' for prefix in sorted(class_prefixes)]
         f.write(css_base.substitute(
             version=_VERSION,
+            generator=_GENERATOR,
             host=config["host"],
             height=config['height'],
             flatten=str(config['flatten']).lower(),

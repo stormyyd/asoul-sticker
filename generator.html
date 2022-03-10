@@ -1,0 +1,53 @@
+<!doctype html>
+
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A-SOUL Sticker CSS Generator</title>
+  <meta name="description" content="A-SOUL Sticker CSS Generator">
+  <meta name="author" content="stormyyd">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/simonwhitaker/github-fork-ribbon-css@0.2.3/gh-fork-ribbon.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css">
+  <link rel="stylesheet" href="css/generator.css">
+</head>
+
+<body>
+  <a class="github-fork-ribbon fixed" href="https://github.com/stormyyd/asoul-sticker" target="_blank" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
+  <div class="main">
+    <h1 class="center">A-SOUL Sticker CSS Generator</h1>
+    <noscript>
+      <div class="noscript">
+        <p>您似乎正在使用一个不支持JavaScript或禁用了JavaScript的浏览器。</p>
+        <p>该网页的功能全部基于JavaScript，所以这会导致您无法正常使用该网页。</p>
+        <p>建议您换用一个支持JavaScript的浏览器或者允许本网页使用JavaSript。</p>
+      </div>
+    </noscript>
+    <div class="config">
+      <label for="input-tag">版本Tag（修改后需要手动点击下方的清除数据缓存按钮使修改生效）: </label>
+      <input type="text" id="input-tag" value="0.3.3">
+      <br>
+      <label for="input-host">表情包的BaseURL: </label>
+      <input type="text" id="input-host" value="https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.3/asset">
+      <br>
+      <label for="input-height">表情包的Height: </label>
+      <input type="text" id="input-height" value="3em">
+      <br>
+      <label for="input-flatten">打平表情包路径</label>
+      <input type="checkbox" id="input-flatten">
+      <br>
+    </div>
+    <button class="btn primary-btn control-btn" type="button" id="generate-btn">生成</button>
+    <button class="btn control-btn copy-btn" type="button" id="copy-css-btn" data-clipboard-target="#generated-css">复制CSS</button>
+    <button class="btn control-btn" type="button" id="clear-cache-btn">清除数据缓存</button>
+    <br>
+    <textarea id="generated-css" readonly>第一次点击生成按钮前，需要通过网络获取模板和数据文件，请耐心等待数据获取完成。</textarea>
+  </div>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js"></script>
+  <script defer src="js/generator.js"></script>
+</body>
+</html>

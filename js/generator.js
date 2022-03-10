@@ -73,6 +73,7 @@
           .join(',\n')
         const cssBase = cssTemplate
           .replace(/\$version/g, versionTag)
+          .replace(/\$generator/g, "https://stormyyd.github.io/asoul-sticker/generator.html")
           .replace(/\$host/g, host)
           .replace(/\$height/g, height)
           .replace(/\$flatten/g, flatten.toString())

@@ -29,10 +29,6 @@ body {
   line-height: 2em;
 }
 
-#input-tag {
-  width: 100px;
-}
-
 #input-host {
   min-width: 300px;
   width: 50%;

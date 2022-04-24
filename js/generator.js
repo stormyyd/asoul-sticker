@@ -1,6 +1,8 @@
 'use strict';
 
 (() => {
+  const version = '0.3.4'
+
   let cssTemplate = null
   let stickerTemplate = null
   let stickerMetaData = null
@@ -22,24 +24,24 @@
     notyf.error('复制失败')
   })
 
-  function generateCSS({versionTag, host, height, flatten}) {
+  function generateCSS({host, height, flatten}) {
     host = host.replace(/\/+$/g, '') // trimRight('/')
     
     const tasks = []
     if (cssTemplate === null) {
-      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${versionTag}/asoul-sticker-base.css`)
+      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${version}/asoul-sticker-base.css`)
         .then(response => response.text())
         .then(text => cssTemplate = text)
       tasks.push(task)
     }
     if (stickerTemplate === null) {
-      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${versionTag}/asoul-sticker-template.css`)
+      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${version}/asoul-sticker-template.css`)
       .then(response => response.text())
       .then(text => stickerTemplate = text)
       tasks.push(task)
     }
     if (stickerMetaData === null) {
-      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${versionTag}/data.txt`)
+      const task = fetch(`https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@${version}/data.txt`)
       .then(response => response.text())
       .then(text => {
         stickerMetaData = text
@@ -72,7 +74,7 @@
           .map(prefix => `span[class^="${prefix}_"]`)
           .join(',\n')
         const cssBase = cssTemplate
-          .replace(/\$version/g, versionTag)
+          .replace(/\$version/g, version)
           .replace(/\$generator/g, "https://stormyyd.github.io/asoul-sticker/generator.html")
           .replace(/\$host/g, host)
           .replace(/\$height/g, height)
@@ -87,7 +89,6 @@
     .getElementById('generate-btn')
     .addEventListener('click', () => {
       generateCSS({
-        versionTag: document.getElementById('input-tag').value,
         host: document.getElementById('input-host').value,
         height: document.getElementById('input-height').value,
         flatten: document.getElementById('input-flatten').checked,

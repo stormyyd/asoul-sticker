@@ -281,6 +281,33 @@ diana3 diana3_zhenhan.png diana3_zhenhan 大航海嘉然_震撼
 diana3 diana3_ele.png diana3_ele 大航海嘉然_饿了
 diana3 diana3_huangdouliuhan.png diana3_huangdouliuhan 大航海嘉然_黄豆流汗
 
+# 嘉然Diana B站2.0装扮
+diana4 diana4_asoul.png diana4_asoul 嘉然2.0_我们是A-SOUL
+diana4 diana4_axiaosi.png diana4_axiaosi 嘉然2.0_啊笑死
+diana4 diana4_bianshen.png diana4_bianshen 嘉然2.0_变身
+diana4 diana4_cahan.png diana4_cahan 嘉然2.0_擦汗
+diana4 diana4_dadun.png diana4_dadun 嘉然2.0_打盹
+diana4 diana4_daqi.png diana4_daqi 嘉然2.0_打气
+diana4 diana4_ganfanshen.png diana4_ganfanshen 嘉然2.0_干饭神
+diana4 diana4_haohaochifan.png diana4_haohaochifan 嘉然2.0_好好吃饭
+diana4 diana4_haohaohao.png diana4_haohaohao 嘉然2.0_好好好
+diana4 diana4_heiheiheihei.png diana4_heiheiheihei 嘉然2.0_嘿嘿嘿嘿
+diana4 diana4_huaidongxi.png diana4_huaidongxi 嘉然2.0_坏东西
+diana4 diana4_jiaranqueen.png diana4_jiaranqueen 嘉然2.0_嘉然Queen
+diana4 diana4_jiaxintang.png diana4_jiaxintang 嘉然2.0_嘉心糖
+diana4 diana4_keainie.png diana4_keainie 嘉然2.0_可爱捏
+diana4 diana4_keshidinawo.png diana4_keshidinawo 嘉然2.0_可是蒂娜我
+diana4 diana4_leile.png diana4_leile 嘉然2.0_累了
+diana4 diana4_sajiao.png diana4_sajiao 嘉然2.0_撒娇
+diana4 diana4_shengmenqi.png diana4_shengmenqi 嘉然2.0_生闷气
+diana4 diana4_xiaocaomei.png diana4_xiaocaomei 嘉然2.0_甜甜小草莓
+diana4 diana4_xiaotianshi.png diana4_xiaotianshi 嘉然2.0_小天使
+diana4 diana4_xiaoxiong.png diana4_xiaoxiong 嘉然2.0_小熊
+diana4 diana4_zaoshanghao.png diana4_zaoshanghao 嘉然2.0_早上好
+diana4 diana4_zhaiwu.png diana4_zhaiwu 嘉然2.0_宅舞
+diana4 diana4_mua.png diana4_mua 嘉然2.0_MUA你一下
+diana4 diana4_run.png diana4_run 嘉然2.0_RUN了
+
 # 花亦山心之月 联动表情
 flower flower_ava.gif flower_ava 花亦山心之月_向晚
 flower flower_bella.gif flower_bella 花亦山心之月_贝拉

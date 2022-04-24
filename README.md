@@ -8,6 +8,7 @@
 - 五位成员的官方抖音/微信表情
 - 阿草的两套官方抖音/微信表情 ~~我一直是草学长啊~~
 - 嘉然的B站舰长表情
+- 嘉然的二期B站装扮表情
 - [《花亦山心之月》](https://flower.nvsgames.cn)联动表情
 - [欧莱雅男士](https://space.bilibili.com/500615835) [联动表情](https://t.bilibili.com/633241414042386452)
 
@@ -48,11 +49,11 @@
 
 ## Usage
 
-当前版本：0.3.4
+当前版本：0.4.0
 
 ```html
 <!--引入CSS-->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.3/dist/asoul-sticker.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/stormyyd/asoul-sticker@0.4/dist/asoul-sticker.css">
 
 <!--使用span标签，将类名设置为表情包名称即可-->
 <span class="diana_asoul"></span>

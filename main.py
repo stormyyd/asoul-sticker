@@ -1,7 +1,7 @@
 import json
 import string
 
-_VERSION = '0.3.4'
+_VERSION = '0.4.0'
 _GENERATOR = "asoul-sticker project"
 
 def main():

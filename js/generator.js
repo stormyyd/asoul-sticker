@@ -1,7 +1,7 @@
 'use strict';
 
 (() => {
-  const version = '0.3.4'
+  const version = '0.4.0'
 
   let cssTemplate = null
   let stickerTemplate = null
